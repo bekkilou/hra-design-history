@@ -31,7 +31,7 @@ Applicants will not be asked to select an approval route directly. Instead, the 
 
 This reduces cognitive load for applicants and should help reduce errors caused by applicants selecting the wrong route or missing required approvals.
 
-##Next steps
+## Next steps
 
 - Validate the routing logic with approvals specialists against a range of real study types
 - Test the conditional journey with researchers in usability sessions
